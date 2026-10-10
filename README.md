@@ -1,1 +1,1 @@
-this is a learnign repository
+this is a learning repository
